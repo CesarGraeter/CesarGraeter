@@ -1,4 +1,4 @@
-### Hi there 👋
+### Portfolio 👋
 
 <!--
 **CesarGraeter/CesarGraeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on machine learning models
 - 🌱 I’m currently learning ways to score models
 - 👯 I’m looking to collaborate on ML
-- 🤔 I’m looking for help with sklearn
+- 🤔 I’m looking for help with TensorFlow
 - 💬 Ask me about business intelligence
 - 📫 How to reach me: [...](https://www.linkedin.com/in/cesargraeter/)
 -->
