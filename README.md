@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 Case I
 
-The goal here is to show you the full solution to a prediction issue, since row data to a web application.
+The goal here is to show you the full solution to a prediction issue, since row data to a web application, not to design the best machine learning model.
 
 The case is based on a dataset from Kaggle, that we supose to predict the number of bike rentals per day.
 
