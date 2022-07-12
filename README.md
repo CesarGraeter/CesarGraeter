@@ -13,29 +13,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [...](https://www.linkedin.com/in/cesargraeter/)
 -->
 
-Case I
-The goal here is to show you i'm able to work as a full stack Data Scientist.
+- 🔭 Case I
+
+The goal here is to show you the full solution to a prediction issue, since row data to a web application.
+
 The case is based on a dataset from Kaggle, that we supose to predict number of bike rentals per day.
+
 The strategie was to:
-  - import to a python notebook and explore the data set using pandas,
+  - import the data set to a python notebook and explore it using pandas,
   - let pycaret show us the best features and estimators,
   - tune the chosen model and
   - deploy a web app that uses the model in the internet
 
-The link below will send you to the code that make the model happend, don't worry if you don't code yet, it's very well remarked, don't be shy to click.
+Now, let me show you how do i did. The link below will send you to the python code that make the model happend. Don't worry if you never wrote a code yet, it's very well remarked, don't be shy to click.
 
 https://github.com/CesarGraeter/Regressao/blob/main/bike_RandomForest.ipynb
 
+Now you know how to create models with pycaret, check out the code i wrote to deploy on Streamlit the web app:
 
+https://github.com/CesarGraeter/Regressao/blob/main/app.py
 
-That link below, will send you to the web app, here is fun, since you understand we did before, now it's time to "predict", try yourself:
+If you still reading it's because you like it, right ? :) The link below, will send you to the web app, here is fun since you understand we did before, now it's time to "predict", try yourself, change parameters and check how it affects:
 
 https://share.streamlit.io/cesargraeter/regressao/main/app.py
 
 
+  
+- 🔭 Case II
 
-
-Um modelo de ML com análise exploratória usando SweetViz
+EDA (Exploratory Data Analysis) using SweetViz
 
 https://github.com/CesarGraeter/SweetViz/blob/main/MLSweetViz_metricas.ipynb
 
