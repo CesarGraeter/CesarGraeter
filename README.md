@@ -21,7 +21,7 @@ The case is based on a dataset from Kaggle, that we supose to predict the number
 
 The strategie was to:
   - import the data set to a python notebook and explore it using pandas,
-  - let pycaret show us the best features and estimators,
+  - a little work to find best features and estimators,
   - tune the chosen model and
   - deploy a web app that uses the model in the internet
 
