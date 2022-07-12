@@ -1,4 +1,4 @@
-### Portfolio 👋
+### My portfolio 
 
 <!--
 **CesarGraeter/CesarGraeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,28 +13,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [...](https://www.linkedin.com/in/cesargraeter/)
 -->
 
-Screenshot de Dashboards em Power BI
+Case I
+The goal here is to show you i'm able to work as a full stack Data Scientist.
+The case is based on a dataset from Kaggle, that we supose to predict number of bike rentals per day.
+The strategie was to:
+  - import to a python notebook and explore the data set using pandas,
+  - let pycaret show us the best features and estimators,
+  - tune the chosen model and
+  - deploy a web app that uses the model in the internet
 
-Exemplo de dashboard com métricas para Recursos Humanos
+The link below will send you to the code that make the model happend, don't worry if you don't code yet, it's very well remarked, don't be shy to click.
 
-.Dashboard RH 01
-.Dashboard RH 02
-
-Análise estatística em dados relativos a processos legais.
-.Dashboard Law
-
-link:
-https://github.com/CesarGraeter/PowerBI
-
-Dois modelos de regressão linear com Python e bibliotecas
-
-https://github.com/CesarGraeter/Regressao/blob/main/bike.ipynb
 https://github.com/CesarGraeter/Regressao/blob/main/bike_RandomForest.ipynb
 
-Um modelo de classificação
 
-https://github.com/CesarGraeter/Classificacao/blob/main/KNN.ipynb
+
+That link below, will send you to the web app, here is fun, since you understand we did before, now it's time to "predict", try yourself:
+
+https://share.streamlit.io/cesargraeter/regressao/main/app.py
+
+
+
 
 Um modelo de ML com análise exploratória usando SweetViz
 
 https://github.com/CesarGraeter/SweetViz/blob/main/MLSweetViz_metricas.ipynb
+
+📫 How to reach me: [...](https://www.linkedin.com/in/cesargraeter/)
