@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 The goal here is to show you the full solution to a prediction issue, since row data to a web application.
 
-The case is based on a dataset from Kaggle, that we supose to predict number of bike rentals per day.
+The case is based on a dataset from Kaggle, that we supose to predict the number of bike rentals per day.
 
 The strategie was to:
   - import the data set to a python notebook and explore it using pandas,
