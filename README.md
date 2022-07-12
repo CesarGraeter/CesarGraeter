@@ -45,4 +45,4 @@ EDA (Exploratory Data Analysis) using SweetViz
 
 https://github.com/CesarGraeter/SweetViz/blob/main/MLSweetViz_metricas.ipynb
 
-📫 How to reach me: [...](https://www.linkedin.com/in/cesargraeter/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cesargraeter/)
