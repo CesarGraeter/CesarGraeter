@@ -29,7 +29,7 @@ Now, let me show you how do i did. The link below will send you to the python co
 
 https://github.com/CesarGraeter/Regressao/blob/main/bike_RandomForest.ipynb
 
-Now you know how to create models with pycaret, check out the code i wrote to deploy on Streamlit the web app:
+Now you know how to create a ML model, check out the code i wrote to deploy on Streamlit the web app:
 
 https://github.com/CesarGraeter/Regressao/blob/main/app.py
 
