@@ -23,9 +23,9 @@ The strategie was to:
   - import the data set to a python notebook and explore it using pandas,
   - a little work to find best features and estimators,
   - tune the chosen model and
-  - deploy a web app that uses the model in the internet
+  - deploy a web app that uses the model over the internet
 
-Now, let me show you how do i did. The link below will send you to the python code that make the model happend. Don't worry if you never wrote a code yet, it's very well remarked, don't be shy to click.
+Now, let me show you how do i did. The link below will send you to the python code that make the model happened. Don't worry if you never wrote a code yet, it's very well remarked, don't be shy to click.
 
 https://github.com/CesarGraeter/Regressao/blob/main/bike_RandomForest.ipynb
 
